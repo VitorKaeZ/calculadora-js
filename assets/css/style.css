@@ -57,7 +57,7 @@ body {
 
 .operators div {
     display: inline-block;
-    border: 1px solid #bbb;
+    border: 1px solid #555;
     border-radius: 1px;
     width: 80px;
     text-align: center;
